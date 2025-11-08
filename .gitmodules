@@ -1,0 +1,4 @@
+[submodule "components/exlib"]
+	path = components/exlib
+	url = https://github.com/zhijian-yan/esp_exlib.git
+	branch = main
